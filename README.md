@@ -1,2 +1,2 @@
-# goit-js-hw-01
-GoIt Home work #1
+# goit-js-hw
+GoIt Home work JS
